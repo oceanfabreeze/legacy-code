@@ -1,0 +1,2 @@
+## legacy-code
+This repo has been entirely designed to house little helper scripts I wrote for myself mostly pre-covid in case I ever need them, allowing me to organize newer code in more detailed repositories. 
